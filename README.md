@@ -25,6 +25,9 @@ Harnessing the power of data visualization, I transformed complex data into visu
 - Conducted customer segmentation analysis, unearthing valuable insights for strategic decision-making.
 - Crafted interactive data dashboards and presentations, effectively communicating complex information.
 
+# Acknowledgements
+I would like to express my gratitude to KPMG for providing this enriching Data Analytics virtual internship experience. This opportunity has allowed me to apply and enhance my analytical skills while working on real-world datasets. Special thanks to the entire KPMG team for creating this comprehensive learning platform.
+
 # **Contact**
 I am excited to share my accomplishments and skills gained during this virtual internship. Feel free to connect with me for further discussions, collaborations, or inquiries:
 
