@@ -34,7 +34,7 @@ During the data cleaning process, I focused on the following data quality dimens
   
 # 3. Sample Email
 In line with the module's requirements, I drafted an email to the client outlining the data quality issues identified and the steps taken to mitigate them.
-The Word and PDF versions of the email are attached.
+The Word and PDF versions of the email are attached in this module as Solution Word Document and Solution PDF Document.
 
 # Contact and Collaborations
 Thank you for exploring Module 1 of my KPMG AU Data Analytics virtual internship showcase, where I successfully completed the Data Quality Assessment using Microsoft Excel!
