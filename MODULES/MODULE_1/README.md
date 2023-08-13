@@ -32,9 +32,12 @@ During the data cleaning process, I focused on the following data quality dimens
 - Transformed raw data into a clean and structured format suitable for analysis.
 - Enhanced data accuracy, completeness, and reliability across the datasets.
   
-# 3. Sample Email
+# 3. Email
 In line with the module's requirements, I drafted an email to the client outlining the data quality issues identified and the steps taken to mitigate them.
 The Word and PDF versions of the email are attached in this module as Solution Word Document and Solution PDF Document.
+
+# Acknowledgements
+I would like to express my gratitude to KPMG for providing this enriching Data Analytics virtual internship experience. This opportunity has allowed me to apply and enhance my analytical skills while working on real-world datasets. Special thanks to the entire KPMG team for creating this comprehensive learning platform.
 
 # Contact and Collaborations
 Thank you for exploring Module 1 of my KPMG AU Data Analytics virtual internship showcase, where I successfully completed the Data Quality Assessment using Microsoft Excel!
